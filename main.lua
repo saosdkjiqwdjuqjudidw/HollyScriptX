@@ -1,2 +1,1 @@
--- i mog everyone
-loadstring(game:HttpGet("https://vss.pandauth.com/kv/4f4a9c0645786679"))()
+loadstring(game:HttpGet("https://vss.pandauth.com/kv/bf0d963c480bb6fd"))()
